@@ -1,27 +1,28 @@
 # Sirui Wang (David Wang) Introduction
 - Software Engineer
 - Graduated from New York University in May 2022 majoring in Computer Science and Math
+- Looking for a [full time] [new-grad/entry-level] [full-stack/back-end] [software engineer/developer] position
+- Open to other similar opportunities as well
 - [Resume](https://drive.google.com/file/d/1YMGnueCmdYywnXKzt4hJYqnBbBEIo-gI/view?usp=sharing)
 - [LinkedIn](https://www.linkedin.com/in/sirui-wang12/)
 - Current job count: $\frac{\displaystyle \lim_{x \to 4} \frac{x^2-16}{x+4}}{\displaystyle \lim_{x \to 1} \frac{\ln{x}}{x-1}}$
-- Looking for a [full time] [new-grad/entry-level] [full-stack/back-end] [software engineer/developer] position
-- Open to other similar opportunities as well
+
 
 # Repositories Guide
 ## nexttimesr
 - README of my Github account
 
-## wsr.bio (In works)
+## [wsr.bio](wsr.bio) (Haven't started working on it, current plan:)
 - My personal website with introduction, resume, projects etc. 
-- API for generate comment of a function.
-- 
+- BJHJ-Bot documentation
+- Other API's
 
 ## bjhj-bot
 - A discord bot using OpenAI and Riot Games APIs
-- Commands that generate text and image from prompt 
-- Commands that generate League of Legends tournament codes.
+- Commands that generate text and image from prompt (OpenAI API)
+- Commands that generate League of Legends tournament codes. (Riot API)
 
-## algo-solutions
+## algo-solutions (In works)
 - My code for practicing Algo problems and implementing popular algorithms (like different sorting algorighms)
 
 ## project-setup-team-chigan-systematic-katalog
