@@ -12,7 +12,7 @@
 ## nexttimesr
 - README of my Github account
 
-## [wsr.bio](wsr.bio) (Haven't started working on it, current plan:)
+## [wsr.bio](https://wsr.bio) (Haven't started working on it, current plan:)
 - My personal website with introduction, resume, projects etc. 
 - BJHJ-Bot documentation
 - Other API's
