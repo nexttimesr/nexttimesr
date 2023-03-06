@@ -12,11 +12,6 @@
 ## nexttimesr
 - README of my Github account
 
-## [wsr.bio](https://wsr.bio) (Haven't started working on it, current plan:)
-- My personal website with introduction, resume, projects etc. 
-- BJHJ-Bot documentation
-- Other API's
-
 ## bjhj-bot
 - A discord bot using OpenAI and Riot Games APIs
 - Commands that generate text and image from prompt (OpenAI API)
@@ -35,7 +30,3 @@
 
 ## car-classification
 - Use Machine Learning (CNN) to classify cars from different brands and models
-
-## nexttimesr.github.io (Not used)
-- Github Page home page. Currently just a default react app. Originally planned to host personal website, but since I bought a domain name and want to add more apis under my personal website I decided to host it else where.
-
